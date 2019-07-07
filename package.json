@@ -1,8 +1,8 @@
 {
   "name": "gesgan",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Junior Marquez",
+  "homepage": "http://www.gesgan.com.ve",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -55,5 +55,5 @@
     "tslint": "~5.17.0",
     "typescript": "~3.1.6"
   },
-  "description": "Software ganadero"
+  "description": "Software Ganadero Gesgan"
 }
